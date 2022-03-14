@@ -1,7 +1,7 @@
 
 ### Hi there :wave:
 
-You can visit my personal [site](https://www.mendrugory.com/) if you want to see a more complete profile.
+You can visit my [personal site](https://www.mendrugory.com/) if you want to see a more complete profile or my [proffesional site](https://www.adysof.com) if you need any help in terms of consultancy or training.
 
 
 <a href="https://github.com/mendrugory">
