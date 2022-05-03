@@ -6,30 +6,30 @@ You can visit my [personal site](https://www.mendrugory.com/) if you want to see
 
 <h3> Statistics </h3>
 <a href="https://github.com/mendrugory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendrugory&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendrugory&show_icons=true&count_private=true&theme=prussian" />
 </a>
 
 <h3> Current Contributions per language </h3>
 <a href="https://github.com/mendrugory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendrugory&show_icons=true&count_private=true&hide=elm,css,javascript,html,less&langs_count=10&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendrugory&show_icons=true&count_private=true&hide=elm,css,javascript,html,less&langs_count=10&layout=compact&theme=prussian" />
 </a>
 
 
 <h3> Other Good Repositories </h3>
 <a href="https://github.com/mendrugory?tab=repositories&q=&type=&language=elixir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=nodex" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=enchufeweb" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=nodex&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=enchufeweb&theme=prussian" />
 </a>
 
 
 <a href="https://github.com/mendrugory?tab=repositories&q=&type=&language=python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=cartografo" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=jenkins-porter" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=cartografo&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=jenkins-porter&theme=prussian" />
 </a>
 
 <a href="https://github.com/mendrugory?tab=repositories&q=&type=source">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=comiccon" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=kubernetes-vagrant" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=comiccon&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=kubernetes-vagrant&theme=prussian" />
 </a>
 
 
