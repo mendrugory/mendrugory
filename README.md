@@ -4,9 +4,14 @@
 You can visit my [personal site](https://www.mendrugory.com/) if you want to see a more complete profile or my [professional site](https://www.adysof.com) if you need any help in terms of consultancy or training.
 
 
+<h3> Statistics </h3>
 <a href="https://github.com/mendrugory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendrugory&show_icons=true&count_private=true&hide=elm,css,javascript,html&langs_count=10&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendrugory&show_icons=true&count_private=true" />
+</a>
+
+<h3> Current Contributions per language </h3>
+<a href="https://github.com/mendrugory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendrugory&show_icons=true&count_private=true&hide=elm,css,javascript,html,less&langs_count=10&layout=compact" />
 </a>
 
 
