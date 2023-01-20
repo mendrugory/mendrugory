@@ -3,7 +3,7 @@
 
 You can visit my [personal site](https://www.mendrugory.com/) if you want to see a more complete profile or my [professional site](https://www.adysof.com) if you need any help in terms of consultancy or training.
 
-
+<!--
 <h3> Statistics </h3>
 <a href="https://github.com/mendrugory">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendrugory&show_icons=true&count_private=true&theme=prussian" />
@@ -32,7 +32,7 @@ You can visit my [personal site](https://www.mendrugory.com/) if you want to see
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mendrugory&repo=kubernetes-vagrant&theme=prussian" />
 </a>
 
-
+-->
 
 
 <!--
